@@ -14,7 +14,7 @@ requires = [
     ]
 
 setup(name='RoBO',
-      version='0.3.1',
+      version='0.3.2',
       description='a python framework for Bayesian optimization',
       author='Aaron Klein',
       author_email='kleinaa@cs.uni-freiburg.de',

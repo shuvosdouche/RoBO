@@ -7,3 +7,4 @@ pyrfr
 pyyaml
 git+https://github.com/automl/george.git@development
 git+https://github.com/automl/pybnn.git
+typing-extensions
