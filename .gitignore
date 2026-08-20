@@ -50,3 +50,5 @@ outcma*.dat
 build/
 dist/
 .tox/
+.DS_Store
+.env
