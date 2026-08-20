@@ -49,3 +49,4 @@ outcma*.dat
 .pytest_cache/
 build/
 dist/
+.tox/
