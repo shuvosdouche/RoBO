@@ -46,3 +46,6 @@ outcma*.dat
 *.orig
 
 /build*
+.pytest_cache/
+build/
+dist/
